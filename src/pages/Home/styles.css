@@ -1,0 +1,24 @@
+.home-container {
+  padding: 27px 41px;
+}
+
+
+.text-container h1 {
+  font-size: 48px;
+  letter-spacing: 0.02em;
+}
+
+.text-container h3 {
+  letter-spacing: 0.02em;
+  font-size: 24px;
+  color: #7E7E7E;
+}
+
+.start-button {
+  margin-top: 35px;
+  border-radius: 4px;
+  width: 101px;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
